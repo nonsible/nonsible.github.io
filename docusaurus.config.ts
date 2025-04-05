@@ -14,7 +14,7 @@ const config: Config = {
   organizationName,
   projectName,
 
-  url: `https://${organizationName}.github.io`,
+  url: 'https://nonsible.github.io',
   baseUrl: '/', // Si usas GitHub Pages en el repo llamado `nonsible.github.io`, esto debe ser '/'
 
   onBrokenLinks: 'throw',
